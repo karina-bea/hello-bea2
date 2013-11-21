@@ -89,12 +89,6 @@ infographics and nav styling.</p>
 
          <div class="row">
           <div class="jumbo-mock">
-            <img src="images/bang_monitor.png">
-          </div>
-        </div>
-
-         <div class="row">
-          <div class="jumbo-mock">
             <img src="images/bang_imac.png">
           </div>
         </div>
@@ -114,7 +108,7 @@ infographics and nav styling.</p>
             <div class="three columns"><img src="http://baylocqkd.aisites.com/entertainment/young_adult.png"></div>
             <div class="nine columns"><blockquote>Paige is a dorky young adult freshly moved to the Bay Area looking to find new friends. She’s currently working a retail job 30 hours a week and shares a home with three roommates in the Sunset District. She attends classes at CCSF in her spare time, still trying to find her passion professionally.She talks to her close friends back in her hometown frequently via chat clients and her only physical friend in SF is her boyfriend.</blockquote>
               <div class="four columns"><h4>Background</h4> High School graduate, some college, completed or in process to getting a degree.</div>
-              <div class="four columns"><h4>Behavior</h4> Media hungry, avid fangirl, frequents social media sites like reddit, pinterest, and tumblr.</li> <li>Interested in gaming, boardgames, movies, tabletop RPG.</div>
+              <div class="four columns"><h4>Behavior</h4> Media hungry, avid fangirl, frequents social media sites like reddit, pinterest, and tumblr.</li> <li>Interested in gaming, boardgames, movies, tabletop RPG.</li></div>
               <div class="four columns"><h4>Motivation</h4> To find friends because of moving to a new city or in search of better friends. Frustrations: Infrequency</div></div>
             </div>
 
@@ -145,7 +139,6 @@ infographics and nav styling.</p>
   <footer>
 <?php include 'footer.php'; ?>
 </footer>
-
 
 
 

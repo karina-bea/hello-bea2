@@ -43,8 +43,8 @@
             <div class="twelve columns">
               <!-- greeting for politeness-->
               <div class="greeting">
-              <p> BitTorrent</p>
-               <a href="http://whatis.bayareanerdgirls.com" target="_blank" class="launch-btn">Launch Site</a>
+              <p>BitTorrent & uTorrent</p>
+               <a href="http://bittorrent.com" target="_blank" class="launch-btn">Launch Site</a>
               </div>
               <!-- super sweet css arrow, css3 is the shit -->
               <div class="arrow-down">
@@ -58,16 +58,20 @@
                 <div class="six columns">
                   <a href="index.html"><h1 class="inner-fullname">karina baylocq</h1></a>
                 </div>
-<nav>
-  <ul>   
-    <li><a href="#" class="nav-headline">Projects</a>
-      <ul>
-        <li><a href="#">Web Design</a></li>
-        <li><a href="#">User Experience</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
+            <!--     <div class="six columns">
+                  <div style="position:relative;">
+                  <nav style="position:absolute;">
+                    <ul>   
+                      <li><a href="#" class="nav-headline">Projects</a>
+                        <ul class="nav-contents">
+                          <li><a href="#">Project 1</a></li>
+                          <li><a href="#">Project 2</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </nav>
+                </div>
+                </div> -->
                
                   </div>
                 </div>
@@ -99,8 +103,7 @@ infographics and nav styling.</p>
 
          <div class="row">
           <div class="jumbo-mock">
-            <h3>Page Design</h3>
-            <img src="images/bang_monitor.png">
+            <img src="images/bt_imac.png">
           </div>
         </div>
 

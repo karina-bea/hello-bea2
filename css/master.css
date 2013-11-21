@@ -960,22 +960,25 @@ input[type=submit]:active::before {
 
 .miniblurb h3, .miniblurb p {color:white;}
 
-nav {float:right; margin-right:15px;}
+/*nav {float:right; margin-right:15px;}
 
 nav ul ul {
 	display: none;
 }
 
-	nav ul li:hover > ul {
+.nav-contents {padding:0 40px;}
+
+nav ul li:hover > ul, .nav-contents:hover, nav:hover ul li:hover > ul, nav:hover ul ul:hover a {
 		display: block;
 	}
+
 
 nav ul {
 	background: #fff; 
 	border-radius: 10px;  
 	list-style: none;
 	position: absolute;
-	/*display: inline-table;*/
+	/*display: inline-table;
 }
 
 nav ul > li{padding-left: 20px;}
