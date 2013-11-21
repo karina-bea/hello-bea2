@@ -960,5 +960,32 @@ input[type=submit]:active::before {
 
 .miniblurb h3, .miniblurb p {color:white;}
 
+nav {float:right; margin-right:15px;}
+
+nav ul ul {
+	display: none;
+}
+
+	nav ul li:hover > ul {
+		display: block;
+	}
+
+nav ul {
+	background: #fff; 
+	border-radius: 10px;  
+	list-style: none;
+	position: absolute;
+	/*display: inline-table;*/
+}
+
+nav ul > li{padding-left: 20px;}
+
+nav ul li {
+	padding:0;
+}
+
+.nav-headline {font-size: 30px; padding: 17px 30px;}
+
+
 
 

@@ -43,7 +43,7 @@
             <div class="twelve columns">
               <!-- greeting for politeness-->
               <div class="greeting">
-              <p> Bay Area Nerd Girls</p>
+              <p> BitTorrent</p>
                <a href="http://whatis.bayareanerdgirls.com" target="_blank" class="launch-btn">Launch Site</a>
               </div>
               <!-- super sweet css arrow, css3 is the shit -->
@@ -58,6 +58,16 @@
                 <div class="six columns">
                   <a href="index.html"><h1 class="inner-fullname">karina baylocq</h1></a>
                 </div>
+<nav>
+  <ul>   
+    <li><a href="#" class="nav-headline">Projects</a>
+      <ul>
+        <li><a href="#">Web Design</a></li>
+        <li><a href="#">User Experience</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
                
                   </div>
                 </div>
@@ -140,6 +150,10 @@ infographics and nav styling.</p>
    
 
   </section>
+
+  <footer>
+<?php include 'footer.php'; ?>
+</footer>
 
 
 
