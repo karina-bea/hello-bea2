@@ -55,9 +55,9 @@
                 <div class="row">
 
 
-                <div class="six columns">
-                  <a href="index.html"><h1 class="inner-fullname">karina baylocq</h1></a>
-                </div>
+                 <div>
+<?php include 'home.php'; ?>
+</div>
             <!--     <div class="six columns">
                   <div style="position:relative;">
                   <nav style="position:absolute;">

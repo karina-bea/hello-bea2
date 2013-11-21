@@ -35,16 +35,20 @@
 <body>
 
 
+  <!-- prettiful orange accent -->
 
+      <div id="accent">
+        </div>
 
+  
         <header> <!-- html5, hayyyyyy-->
           <!-- start first row -->
           <div class="row">
             <div class="twelve columns">
               <!-- greeting for politeness-->
               <div class="greeting">
-              <p> Bay Area Nerd Girls</p>
-               <a href="http://whatis.bayareanerdgirls.com" target="_blank" class="launch-btn">Launch Site</a>
+              <p> AI SF Designs</p>
+               <a href="http://aisfdesigns.com" target="_blank" class="launch-btn">Launch Site</a>
               </div>
               <!-- super sweet css arrow, css3 is the shit -->
               <div class="arrow-down">
@@ -71,16 +75,22 @@
           <!-- prettiful orange accent -->
 
 
+          </div> <!-- end row-->
+
+        </header> <!-- yyyy gurl, hay! /header-->
+
+ 
+
   <section class="project" style="padding-top:15px;">
     <div class="row">
       <div class="twelve columns">
         <div class="row">
           <div class="onboarding">
-              <p>BitTorrent’s corporate website showcasing different products like BitTorrent downloader client, 
+          <p>AI SF Designs is a website created to be a resource to The Art Institute of California—San 
 
-uTorrent client, BitTorrent Sync, & BitTorrent Bundles. Visual assets created for the website like 
+    Francisco students in the design majors. It’s meant to showcase work of previous and current 
 
-infographics and nav styling.</p>
+    students and give an easy workflow for the advisors.</p>
           </div>
         </div>
       </div>
@@ -90,7 +100,7 @@ infographics and nav styling.</p>
 
          <div class="row">
           <div class="jumbo-mock">
-            <img src="images/bang_imac.png">
+            <img src="images/ai_imac.png">
           </div>
         </div>
 
@@ -99,31 +109,28 @@ infographics and nav styling.</p>
 
         <div class="row">
           <div class="jumbo-mock">
-            <img src="images/bang_dynamic.png">
+            <img src="http://cdn1.dribbble.com/users/69586/screenshots/960690/attachments/109657/graduates_fullpixels.png">
           </div>
         </div>
+
+
+
+
+          </div>
+ 
 
         <div class="row">
-          <div class="sketches-section">
-            <h3>Example Persona</h3>
-            <div class="three columns"><img src="http://baylocqkd.aisites.com/entertainment/young_adult.png"></div>
-            <div class="nine columns"><blockquote>Paige is a dorky young adult freshly moved to the Bay Area looking to find new friends. She’s currently working a retail job 30 hours a week and shares a home with three roommates in the Sunset District. She attends classes at CCSF in her spare time, still trying to find her passion professionally.She talks to her close friends back in her hometown frequently via chat clients and her only physical friend in SF is her boyfriend.</blockquote>
-              <div class="four columns"><h4>Background</h4> High School graduate, some college, completed or in process to getting a degree.</div>
-              <div class="four columns"><h4>Behavior</h4> Media hungry, avid fangirl, frequents social media sites like reddit, pinterest, and tumblr.</li> <li>Interested in gaming, boardgames, movies, tabletop RPG.</li></div>
-              <div class="four columns"><h4>Motivation</h4> To find friends because of moving to a new city or in search of better friends. Frustrations: Infrequency</div></div>
-            </div>
-
-
-          </div>
-   <div class="row">
           <div class="jumbo-mock">
-             <h3>Wireframe</h3>
-
-            <img src="http://baylocqkd.aisites.com/entertainment/bang_wireframe.jpg">
+             <div data-configid="1728216/5624319" style="width: 100%; height: 500px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
           </div>
         </div>
+
+       
 
     </section>
+  <footer>
+<?php include 'footer.php'; ?>
+</footer>
 
 
 
@@ -136,10 +143,9 @@ infographics and nav styling.</p>
 
   </section>
 
+  
 
-  <footer>
-<?php include 'footer.php'; ?>
-</footer>
+
 
 
 
