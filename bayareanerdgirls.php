@@ -13,11 +13,8 @@
     </div>
   </div>
 </header>
-<div class="row">
-  <div class="col-md-12"> 
-    <div class="main">
-        <div id="ac-wrapper" class="ac-wrapper">
-          <div class="ac-device">
+<?php include 'browsertop.php'; ?>
+
             <a href="#"><img src="images/content.png" class="img-responsive"/></a>
           </div>
           <div class="ac-grid">
@@ -30,10 +27,9 @@
             <a href="#"><img src="images/content.png" class=""/></a>
             <a href="#"><img src="images/content.png" class=""/></a>
           </div>
- 
-        </div>
-      </div>
-</div>
+ <?php include 'browserbottom.php'; ?>
+
+
 <div class="row">
   <div class="col-md-2">
 
