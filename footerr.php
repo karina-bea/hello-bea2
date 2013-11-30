@@ -37,6 +37,12 @@
     <script src="javascripts/polyfills.js"></script> 
 	<script src="javascripts/nav.js"></script>
 	<script type="text/javascript" src="javascripts/retina-1.1.0.min.js"></script>
+	<script src="javascripts/appshowcase.js"></script>
+<script>
+      $(function() {
+        AppShowcase.init();
+      });
+</script>
 
   </body>
 </html>

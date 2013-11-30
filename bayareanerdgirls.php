@@ -14,7 +14,25 @@
   </div>
 </header>
 <div class="row">
-  <div class="col-md-12"> <img src="images/bang_dynamic.png"/ class="img-responsive"></div>
+  <div class="col-md-12"> 
+    <div class="main">
+        <div id="ac-wrapper" class="ac-wrapper">
+          <div class="ac-device">
+            <a href="#"><img src="images/content.png" class="img-responsive"/></a>
+          </div>
+          <div class="ac-grid">
+            <a href="#"><img src="images/content.png" class=""/></a>
+            <a href="#"><img src="images/content2.png" class=""/></a>
+            <a href="#"><img src="images/content.png" class=""/></a>
+            <a href="#"><img src="images/content2.png" class=""/></a>
+            <a href="#"><img src="images/content.png" class=""/></a>
+            <a href="#"><img src="images/content.png" class=""/></a>
+            <a href="#"><img src="images/content.png" class=""/></a>
+            <a href="#"><img src="images/content.png" class=""/></a>
+          </div>
+ 
+        </div>
+      </div>
 </div>
 <div class="row">
   <div class="col-md-2">
@@ -24,6 +42,9 @@
 
   </div>
 </div>
+
+
+
 
 
 <?php include 'footerr.php'; ?>
