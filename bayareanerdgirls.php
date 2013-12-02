@@ -2,7 +2,9 @@
 
 <header>
   <div class="row">
+    <!-- Monitor Image -->
     <div class="col-md-10"> <img src="images/bang_imac.png"/ class="img-responsive"></div>
+    <!-- Le sidebar -->
     <div class="col-md-2" style="padding:0;">
       <aside>
         <h3>Bay Area Nerd Girls</h3>
@@ -13,6 +15,8 @@
     </div>
   </div>
 </header>
+
+<!-- Start Browser Frame -->
 <?php include 'browsertop.php'; ?>
 
             <a href="#"><img src="images/content.png" class="img-responsive"/></a>
@@ -28,6 +32,8 @@
             <a href="#"><img src="images/content.png" class=""/></a>
           </div>
  <?php include 'browserbottom.php'; ?>
+
+ <!-- End Browser Frame -->
 
 
 <div class="row">
