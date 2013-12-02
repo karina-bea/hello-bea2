@@ -7,6 +7,42 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {font-family: 'Open Sans Co
 
 aside {border:solid; padding:10px;}
 
+.greeter, body { height:6em; background: url('../images/woodpattern1.png') repeat;}
+.greeter > .container {background-color:white;  -webkit-border-radius: 0px 0px 10px 10px; border-radius: 0px 0px 10px 10px;}
+.home-grid {padding-top:6em;}
+.home-grid .col-md-3, .home-grid .col-md-6 {padding:5px;}
+.greeter .navbar-default {background:none; border:none;}
+.greeter h1 {font-size:3em;}
+
+
+
+.square1 
+,.square2 
+,.square3 
+,.square4 
+,.square5 
+,.square6 
+,.square7 
+,.square8 
+,.square9 
+,.square10
+,.square11 { height:10em; margin:.5%; font-size:2.6em; font-weight:100; color:white; text-align: center;}
+
+.home-grid h3, .home-grid a {color:white; font-weight: 100; padding-top:1em;}
+
+/* Grid */
+.square1 { background-color: #3399CC; }
+.square2 { background-color: #33CCCC; }
+.square3 { background-color: #996699; }
+.square4 { background-color: #C24747; }
+.square5 { background-color: #e2674a; }
+.square6 { background-color: #FFCC66; }
+.square7 { background-color: #99CC99; }
+.square8 { background-color: #669999; }
+.square9 { background-color: #CC6699; }
+.square10 { background-color: #339966; }
+.square11 { background-color: #666699; }
+
 .ac-wrapper {
 	max-width: 926px;
 	width: 100%;
