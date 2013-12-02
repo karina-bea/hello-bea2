@@ -1,4 +1,5 @@
-   <div class="footer hidden-xs">
+   <div class="footer hidden-xs"> 
+   	<!-- Nav hidden fer mobileyy -->
 			<div class="component">
 				<!-- Start Nav Structure -->
 				<button class="cn-button" id="cn-button"><i class="fa fa-envelope" alt="Contact Me"></i></button>
@@ -16,6 +17,7 @@
 			</div>
 		</div>
 	<nav class="navbar navbar-default navbar-static-bottom visible-xs" role="navigation">
+		<!-- Change to this nav if mobile viewer -->
 		   <ul>
 				      <li><a href="http://dribbble.com/karina_bea" target="_blank"><i class="fa fa-dribbble"></i> Dribbble </a></li>
 				      <li><a href="http://github.com/karina-bea" target="_blank"><i class="fa fa-github-alt"></i> Github </a></li>
@@ -29,9 +31,9 @@
     </div> <!-- /container -->
 
 
-    <!-- Bootstrap core JavaScript
+    <!-- Scripts for le page
     ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- weeeeeeeeee -->
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="javascripts/bootstrap.min.js"></script>
     <script src="javascripts/polyfills.js"></script> 

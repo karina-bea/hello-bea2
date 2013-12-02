@@ -35,15 +35,9 @@
 
  <!-- End Browser Frame -->
 
+<!-- Start document snippet section with tabbable subsections -->
 
-<div class="row">
-  <div class="col-md-2">
-
-<!-- <div class="hexagon hexagon2"><div class="hexagon-in1"><div class="hexagon-in2"></div></div></div> -->
-
-
-  </div>
-</div>
+ <!-- End document snippet section -->
 
 
 
