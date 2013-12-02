@@ -1,5 +1,5 @@
 <?php include 'headerr.php'; ?>
-
+<section class="inner-page">
 <header>
   <div class="row">
     <!-- Monitor Image -->
@@ -33,9 +33,35 @@
           </div>
  <?php include 'browserbottom.php'; ?>
 
- <!-- End Browser Frame -->
+ <!-- End Browser Frame 
+=======================================-->
 
 <!-- Start document snippet section with tabbable subsections -->
+<div class="row">
+  <div class="col-md-12">
+
+    <ul class="nav nav-tabs" id="myTab">
+      <li class="active"><a href="#home" data-toggle="tab">Home</a></li>
+      <li><a href="#profile" data-toggle="tab">Profile</a></li>
+      <li><a href="#messages" data-toggle="tab">Messages</a></li>
+      <li><a href="#settings" data-toggle="tab">Settings</a></li>
+    </ul>
+
+    <div class="tab-content">
+      <div class="tab-pane active" id="home">...</div>
+      <div class="tab-pane" id="profile">Something here </div>
+      <div class="tab-pane" id="messages">Something there </div>
+      <div class="tab-pane" id="settings">lflsdjf</div>
+    </div>
+ </div>
+</div>
+</section>
+
+<script>
+  $(function () {
+    $('#myTab a:last').tab('show')
+  })
+</script>
 
  <!-- End document snippet section -->
 

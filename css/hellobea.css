@@ -1,8 +1,9 @@
 body {font-family: 'Open Sans', sans-serif;}
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {font-family: 'Open Sans Condensed', sans-serif;}
 
-header {padding-top: 6em;}
-header img {padding-bottom: 6em;}
+/*header {padding-top: 6em;}
+*/
+.inner-page .row {margin: 6.5em 0;}
 
 aside {border:solid; padding:10px;}
 
